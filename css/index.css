@@ -125,73 +125,73 @@ p {
     display: flex;
     align-items: center;
     justify-content: center;}
- .yellow {width: 12.5%;
+ .gold {width: 12.5%;
     height: 100px;
-    background: darkgoldenrod;
+    background: gold;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;}
-.blue1 {width: 12.5%;
+.cadetblue {width: 12.5%;
     height: 100px;
-    background: darkcyan;
+    background: cadetblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;}
-.orange {width: 12.5%;
+.coral {width: 12.5%;
     height: 100px;
-    background: orangered;
+    background: coral;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;}
-.red {width: 12.5%;
+.crimson {width: 12.5%;
     height: 100px;
-    background: red;
+    background: crimson;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;}
-.green {width: 12.5%;
+.forestgreen {width: 12.5%;
     height: 100px;
-    background: green;
+    background: forestgreen;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;}
-.purple {width: 12.5%;
+.darkorgid {width: 12.5%;
     height: 100px;
-    background: purple;
+    background: darkorchid;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;}
-.pink {width: 12.5%;
+.hotpink {width: 12.5%;
     height: 100px;
-    background: pink;
+    background: hotpink;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;}
-.blue2 {width: 12.5%;
+.indigo {width: 12.5%;
     height: 100px;
-    background: darkblue;
+    background: indigo;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;}
-.blue3 {width: 12.5%;
+.dogerblue {width: 12.5%;
     height: 100px;
-    background: blue;
+    background: dodgerblue;
     margin: 20px 2.5%;
     color: white;
     display: flex;
